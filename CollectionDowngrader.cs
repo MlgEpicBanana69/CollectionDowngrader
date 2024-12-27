@@ -7,11 +7,11 @@ namespace CollectionDowngrader
 {
     class CollectionDowngrader
     {
-        const int LazerSchemaVersion = 42;
+        const int LazerSchemaVersion = 45;
 
         private static int Main(string[] args)
         {
-            String realmFile, outputFile;
+            string realmFile, outputFile;
             FileStream outStream;
             BinaryWriter binWriter;
             Realm db;

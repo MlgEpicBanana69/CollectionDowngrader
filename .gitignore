@@ -5,3 +5,5 @@
 /_ReSharper.Caches/
 /FodyWeavers*
 /collection.db
+/Properties/launchSettings.json
+/.vs/CollectionDowngrader
